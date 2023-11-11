@@ -1,0 +1,13 @@
+$theme-color:#fff;
+// $theme-color:#8B00FF;
+
+$view-color: #eee;
+
+$theme: #3fc7f5;
+
+$title-color: #2c3e50;
+
+@mixin hover-style {
+  color: $theme-color;
+  cursor: pointer;
+}
